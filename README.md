@@ -1,4 +1,6 @@
 ### Hi there 👋
+### I am a student at Gachon University and I am interested in coding, so I majored in software
+### Let's get along well.
 
 <!--
 **leemyunghoo/leemyunghoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
